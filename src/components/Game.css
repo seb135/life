@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    height: 80vh;
+    width: 1280px;
+    margin: auto;
+    text-align: center;
+    
+}
+.square{  
+    border: 1px solid black;
+    background-color: white;
+}
+
