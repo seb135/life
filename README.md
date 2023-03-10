@@ -3,9 +3,13 @@ Built in React using Create React App
 
 For any information on the rules of this game please visit (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
+When grid is loaded, press "Pattern" button to generate random pattern of live cells. 
+Click "Run" to run game of life
+Click "Stop" to pause game of life
+
 Improvements to be made:
 - Initialise canvas with existing pattern
-- Change bug when pressing run multiple times
+- Buttons work, but show unexpected behaviour.
 
 # Getting Started with Create React App
 
