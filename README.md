@@ -8,6 +8,7 @@ Click "Run" to run game of life
 Click "Stop" to pause game of life
 
 Improvements to be made:
+- Add better GUI
 - Initialise canvas with existing pattern
 - Buttons work, but show unexpected behaviour.
 
